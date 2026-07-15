@@ -1,8 +1,7 @@
 <div>
  <h1 align="center">Offeline</h1>
 </div>
-offeline was built to liberate the world from the direction of the AI industry. We believe in having free alternatives to every paid software
-
+offeline was built to liberate the world from the direction of the AI industry. We believe in having alternatives to every paid software
 
 <div>
  <h3 align="center">web & desktop</h3>
@@ -12,7 +11,7 @@ offeline was built to liberate the world from the direction of the AI industry. 
 
 <div>
  <h3 align="center">mobile</h3>
-<center><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1784107528/738_2x_shots_so_wenuno.png"/></center>
-  
+<center><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1784107528/phone.png"/></center>
+ 
 </div>
 
